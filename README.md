@@ -14,5 +14,6 @@ Please open the terminal or command line and try to attempt the following activi
 6. Create a new folder inside funcode/the-most-funny/ called "not-that-funny".
 7. Create a copy of the last file you can find below the /boringfolder/ childs (the-mostboding-text.txt) name it myfistcopy.txt
 8. Remove the "remove-me" folder from the funcode directory 
-9. Print in the screen the-ultimate-joke.txt
-10. Remove all the contents form the boringfolder, the are extremly boring. 
+9. Print in the console the content of the-ultimate-joke.txt
+10. Remove all the contents form the boringfolder, the are extremly boring.
+11. Celebrate with a well deserved 10 min break.
